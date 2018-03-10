@@ -1,8 +1,8 @@
 # ConsoleChat
 
-Client/Server messaging application written in C by Leonardo Lai, as final project for the exam "Computer networks".
-This is a terminal-based (no GUI) app to exchange text messages between clients, exploiting TCP/UDP sockets.
-The server is used to store pending messages when the clients are offline.
+Client/Server messaging application written in C by Leonardo Lai, as final project for the exam "Computer networks".  
+This is a terminal-based (no GUI) app to exchange text messages between clients, exploiting TCP/UDP sockets.  
+The server is used to store pending messages when the clients are offline.  
 Specification (in italian) are available here: http://www2.ing.unipi.it/c.vallati/files/reti/Progetto2017.pdf
 
 **Files and folders hierarchy:**  
