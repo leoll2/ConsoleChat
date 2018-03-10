@@ -1,0 +1,13 @@
+commands.c is a set of functions (more like an interface) shared by client and server source files.
+The other files follow this naming convention:
+<host>_<function>.<extension>
+
+Host:
+sv -> server. The file is part of the server source files.
+cl -> client. The file is part of the client source files.
+
+Function:
+console -> functions to read/write in the console
+exec -> functions to handle the execution of commands and other operations
+main -> main file
+network -> network related functions (socket, TCP, UDP, ...)

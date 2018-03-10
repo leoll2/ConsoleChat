@@ -1,0 +1,10 @@
+DIRECTORIES:
+inout_util -> utilities for input and output operations, including a (very basic) customized reimplementation of some stdio.h functions
+list -> implementation of 'List' data structure for generic types
+struct_util -> utilities to manipulate custom data structures
+
+FILES:
+chat.h -> collection of all header files in this folder
+macros.h -> all the macros used in the application
+parameters.h -> constants and parameters used in the app. Some of them can be customized (recompile all if you change)
+types.h -> custom data types defined in the app
